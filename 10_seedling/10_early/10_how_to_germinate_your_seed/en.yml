@@ -18,6 +18,13 @@ intro:
     1. Put the seed in a glass filled with slightly warm water.
     2. Put the glass in a dark place for 24 hours.
 
+checklist:
+  - name: Light mix soil
+    urls:
+      - zone: EU
+        image: assets/monkey_soil.png
+        url: https://www.monkeysoil.com/en/product/light-mix-evolution/
+
 sources:
   - title: Royal Queen Seeds
     url: https://www.royalqueenseeds.com/blog-indoor-cannabis-growing-relative-humidity-and-temperatures-n243

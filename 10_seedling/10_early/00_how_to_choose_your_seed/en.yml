@@ -1,0 +1,15 @@
+title: How to choose your seed
+tags: sgl, vertical, soil
+reftime: 0
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+
+checklist:
+  - name: Light mix soil
+    urls:
+      - zone: EU
+        image: assets/monkey_soil.png
+        url: https://www.monkeysoil.com/en/product/light-mix-evolution/
