@@ -1,0 +1,13 @@
+title: When to water your seedling
+tags: sgl, vertical, soil
+reftime: 5
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+
+reminders:
+  - id: WATERING
+    interval: 4-7d
+    text: Check the soil

@@ -1,0 +1,21 @@
+title: How to sow your seed
+tags: sgl, vertical, soil
+reftime: 1-2
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+
+reminders:
+  - delay: 1d
+    text: The main predator of young seedlings? Over-watering. Check how to not kill your plant.
+    next: 10_veg/20_mid/10_when_to_water_seedling
+
+triggers:
+  - id: TEMPERATURE
+    metric: TEMP
+    value: 21-32
+  - id: HUMIDITY
+    metric: HUMI
+    value: 40-70
