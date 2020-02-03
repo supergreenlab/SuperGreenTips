@@ -36,8 +36,10 @@ reminders:
 
 triggers:
   - id: TEMPERATURE
+    notification: TODO
     metric: TEMP
     value: 21-32
   - id: HUMIDITY
+    notification: TODO
     metric: HUMI
     value: 60-70
