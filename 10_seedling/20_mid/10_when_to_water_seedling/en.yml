@@ -6,6 +6,11 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
+    Should I water?
+    1. Sight: look at the soil, does it look dry? yes->step2
+    2. Touch: place finger in the soil 1 knuckle deep, is the soil humid? if dry->step3
+    3. Weight: pick up the pot, does it feel very light? yes-> time to water :)
+    *note: it's safer to let the soil dry an extra day if you are unsure than to water*
 
 reminders:
   - id: WATERING

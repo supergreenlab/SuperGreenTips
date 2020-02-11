@@ -6,10 +6,60 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
+    **Genetics matter**; get your seeds from reputable seedbanks!
+    Pick a strain that **meets your needs**; aroma/flavor, symptom relief, ect.
+    Here's a list of recommended seedbanks and additional tips...
 
-checklist:
+sections:
+  - title: Recommended seedbanks
+    image:
+      url: assets/pic.png
+      layout: full
+    text: |
+      We curated a list of the best most reputable seedbanks the community uses.
+      *Help us keep this guide free by using our affiliate links below.*
+    # todo which seedbank does the community uses (US-EU)?
+
+  - title: Recommended seedbanks
+    subsections:
+       - title: Sensi Seeds
+        image:
+          url: assets/pic.png
+          layout: left
+        text: |
+          Sensi Seeds pioneered the cannabis seed industry in 1985. Today, the company is the world’s largest cannabis seedbank with over 500 varieties. These genetics and the brand name have become true classics in the cannabis community.
+          
+        link:
+          title: BUY SEEDS
+          to: https://sensiseeds.com?a_aid=SuperGreenLab
+          
+      - title: Paradise Seeds
+        image:
+          url: assets/pic.png
+          layout: left
+        text: |
+          Paradise Seeds is based out of Amsterdam and has been in operation since the early 1990s, making it one of the longest-established seedbanks on the internet.
+          
+        link:
+          title: BUY SEEDS
+          to: https://https://www.royalqueenseeds.com/33-feminized-cannabis-seeds
+
+      - title: Kannabia
+        image:
+          url: assets/pic.png
+          layout: left
+        text: |
+          Kannabia is based out of Spain with many years of work stabilizing genetics and adapting strains to the needs of cannabis cultivators. 
+          
+        link:
+          title: BUY SEEDS
+          to: https://www.kannabia.com/en/feminized-cannabis-seeds
+
+
+
+products:
   - name: Light mix soil
-    urls:
+    product:
       - zone: EU
         image: assets/monkey_soil.png
         url: https://www.monkeysoil.com/en/product/light-mix-evolution/

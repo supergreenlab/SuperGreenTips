@@ -1,4 +1,4 @@
-title: When to water your seedling
+title: How to control stretch
 tags: sgl, vertical, soil
 reftime: 5
 intro:
@@ -6,6 +6,7 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
+    
 
 reminders:
   - id: WATERING

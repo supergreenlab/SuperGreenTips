@@ -6,6 +6,17 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
+    Now that the seed has sprouted time to **sow** it in it's first pot :)
+    1. Water the soil
+    2. Make a hole with your finger or a pen about 1 nail deep
+    3. Carfuly place the seed and cover it up with soil
+
+products:
+  - name: Light mix soil
+    urls:
+      - zone: EU
+        image: assets/monkey_soil.png
+        url: https://www.monkeysoil.com/en/product/light-mix-evolution/
 
 reminders:
   - delay: 1d
