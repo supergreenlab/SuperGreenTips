@@ -21,14 +21,6 @@ intro:
       * Water: activates the seed’s growth hormones while making the shell easier to break through.
       * Temperature: signals the plant it is safe to sprout, winter is over.
       * Oxygen: determines how deep the seed is, low oxygen would mean it’s too deep and won’t be able to reach the surface.
-    
-
-checklist:
-  - name: Light mix soil
-    urls:
-      - zone: EU
-        image: assets/monkey_soil.png
-        url: https://www.monkeysoil.com/en/product/light-mix-evolution/
 
 sources:
   - title: Royal Queen Seeds
@@ -38,13 +30,3 @@ reminders:
   - delay: 24h
     text: Take your seed out of the water, it should have sprouted!
     next: 10_veg/10_early/20_how_to_sow_your_seed
-
-triggers:
-  - id: TEMPERATURE
-    notification: TODO
-    metric: TEMP
-    value: 21-32
-  - id: HUMIDITY
-    notification: TODO
-    metric: HUMI
-    value: 60-70

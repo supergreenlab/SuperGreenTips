@@ -8,7 +8,7 @@ intro:
   text: |
     **Genetics matter**; get your seeds from reputable seedbanks!
     Pick a strain that **meets your needs**; aroma/flavor, symptom relief, ect.
-    Here's a list of recommended seedbanks and additional tips...
+    Here's a list of recommended seedbanks used by SuperGreenLab growers.
 
 sections:
   - title: Recommended seedbanks
@@ -20,7 +20,6 @@ sections:
       *Help us keep this guide free by using our affiliate links below.*
     # todo which seedbank does the community uses (US-EU)?
 
-  - title: Recommended seedbanks
     subsections:
        - title: Sensi Seeds
         image:
@@ -54,12 +53,3 @@ sections:
         link:
           title: BUY SEEDS
           to: https://www.kannabia.com/en/feminized-cannabis-seeds
-
-
-
-products:
-  - name: Light mix soil
-    product:
-      - zone: EU
-        image: assets/monkey_soil.png
-        url: https://www.monkeysoil.com/en/product/light-mix-evolution/

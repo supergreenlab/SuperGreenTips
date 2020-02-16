@@ -1,0 +1,26 @@
+title: How to repot your seedling
+tags: sgl, vertical, soil
+reftime: 7-10
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    1. Put a layer of clay balls at the bottom of the fabric pot
+    2. Wet your soil in a separate container and add it to the pot
+    **note: make sure to tamp the soil - loose soil = dead roots**
+    3. Dig out a hole the size of the seedling container
+    4. Flip the seelding pside down and gently sqweeze the sides of the pot unitl it slides out
+    5 Carefuly place the seeding in it's new pot
+    6. Add soil and don't forget to tamp around the plant
+
+    triggers:
+  - id: TEMPERATURE
+    notification: TODO
+    metric: TEMP
+    value_day: 21-32
+    value_night: 17-28
+  - id: HUMIDITY
+    notification: TODO
+    metric: HUMI
+    value: 40-70

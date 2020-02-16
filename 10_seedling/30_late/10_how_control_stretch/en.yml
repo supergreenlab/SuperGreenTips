@@ -6,9 +6,13 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
-    
-
+     Plants strecth to reach adequate lighting.
+     Increase light instensity to decrease stretching.
+     Decrease light intensity to increase stretching.
+     Monitor the growth over the next few days.
+     
 reminders:
   - id: WATERING
     interval: 4-7d
     text: Check the soil
+

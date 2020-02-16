@@ -6,8 +6,9 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
-    Now that the seed has sprouted time to **sow** it in it's first pot :)
-    1. Water the soil
+    The seed has sprouted! Time to **sow** it in it's first pot :)
+    1. Put a layer of clay balls in the small pot
+    1. Add soil and water it
     2. Make a hole with your finger or a pen about 1 nail deep
     3. Carfuly place the seed and cover it up with soil
 
@@ -17,6 +18,12 @@ products:
       - zone: EU
         image: assets/monkey_soil.png
         url: https://www.monkeysoil.com/en/product/light-mix-evolution/
+  - name: Clay balls
+    urls:
+      - zone: EU
+        image: assets/clay_balls.png
+        url: https://www.amazon.de/dp/B07KK9ZPRZ
+  - name: Small pot
 
 reminders:
   - delay: 1d
@@ -27,7 +34,8 @@ triggers:
   - id: TEMPERATURE
     notification: TODO
     metric: TEMP
-    value: 21-32
+    value_day: 21-32
+    value_night: 17-28
   - id: HUMIDITY
     notification: TODO
     metric: HUMI
