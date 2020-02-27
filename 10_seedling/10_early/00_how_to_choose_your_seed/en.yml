@@ -24,7 +24,7 @@ sections:
     # todo which seedbank does the community uses (US-EU)?
 
     subsections:
-       - title: Sensi Seeds
+      - title: Sensi Seeds
         image:
           url: assets/pic.png
           layout: left
