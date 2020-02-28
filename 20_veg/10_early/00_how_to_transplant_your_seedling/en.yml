@@ -1,5 +1,8 @@
 title: How to repot your seedling
-tags: sgl, vertical, soil
+tags:
+  - sgl
+  - vertical
+  - soil
 reftime: 7-10
 intro:
   image:
@@ -14,7 +17,7 @@ intro:
     5 Carefuly place the seeding in it's new pot
     6. Add soil and don't forget to tamp around the plant
 
-    triggers:
+  triggers:
   - id: TEMPERATURE
     notification: TODO
     metric: TEMP

@@ -1,5 +1,8 @@
 title: How to choose your seed
-tags: sgl, vertical, soil
+tags:
+  - sgl
+  - vertical
+  - soil
 reftime: 0
 intro:
   image:
@@ -21,7 +24,7 @@ sections:
     # todo which seedbank does the community uses (US-EU)?
 
     subsections:
-    - title: Seedsman
+      - title: Sensi Seeds
         image:
           url: assets/pic.png
           layout: left
