@@ -1,0 +1,37 @@
+title: When to harvest
+tags: sgl, vertical, soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Trichomes give the best indicator for maturity in cannabis, so use them as your guide to harvest.
+    clear and translucent: immature
+    cloudy and translucent: energetic high
+    cloudy and amber: body high
+
+products:
+  - name: Jewler's loupe x60
+    urls:
+      - zone: US
+        image: assets/jewler_loupe.png
+        url: https://www.amazon.com/DBPOWER-Illuminated-Jewelers-Magnifier-Magnifying/dp/B00K0BGNNC/
+
+  - name: Handheld microscope x60-x120
+    urls:
+      - zone: US
+        image: assets/microscope.png
+        url:   https://www.amazon.com/Carson-MicroBrite-60x-120x-Lighted-Microscope/dp/B00LAX52IQ
+
+  - name: Trimming scisors
+    urls:
+      - zone: US
+        image: assets/trimming_scisors.png
+        url: https://www.amazon.com/dp/B01LQ8E5KK
+
+  - name: Trim bin
+    urls:
+      - zone: US
+        image: assets/trimming_bin.png
+        url: https://www.amazon.com/TrimBin-Harvest-More-Trim-Black/dp/B00L4NJSBE/

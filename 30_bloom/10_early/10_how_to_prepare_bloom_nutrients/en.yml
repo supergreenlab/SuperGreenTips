@@ -12,3 +12,10 @@ intro:
     Plants'nutrient needs change when going into flowering.
     Now's the time to prepare your flowering nutrient mix.
     Follow the instructions from your nutrient provider.
+
+products:
+  - name: Mega crop
+    urls:
+      - zone: US
+        image: assets/mega_crop.png
+        url: https://greenleafnutrients.com/product/mega-crop/
