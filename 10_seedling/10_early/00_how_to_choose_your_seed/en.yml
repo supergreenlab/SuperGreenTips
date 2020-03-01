@@ -35,7 +35,7 @@ sections:
           title: BUY SEEDS
           to: https://www.seedsman.com/en/?a_aid=5e467237479ff
 
-       - title: Sensi Seeds
+      - title: Sensi Seeds
         image:
           url: assets/pic.png
           layout: left
