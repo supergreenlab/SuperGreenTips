@@ -1,0 +1,47 @@
+title: How to trim your buds
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    **Trimming brings out more smell than the flowering stage - be smart, stay safe**
+    Trimming checklist:
+      - trim bin to work in (get one with a mesh for simple trichome collection)
+      - gloves; cannabis resin is extremly sticky 
+      - pruning shears to cut branches
+      - trimming scisors to cut away the leaves left on the bud
+    1. Cut down branches one at a time, it's easier to work with
+    2. Remove all fan leaves (all the leaves that are not covered in trichomes) *you can dispose of them* 
+    3. Cut away the sugar leaves sticking out of your bud as closely as you can to end up with a smooth shaped bud.
+    *note: save them as they are covered in trichomes and can be used to make concentrates and edibles*
+    4. If your humidity is very high (RH>60%) you'll want to cut the bigger buds into smaller ones to allow for better drying.
+
+products:
+  - name: Pruning shears
+    urls:
+      - zone: US
+        image: assets/fiskar_pruning.png
+        url: https://amzn.to/2Tg72nm
+
+  - name: Trimming scisors
+    urls:
+      - zone: US
+        image: assets/trimming_scisors.png
+        url: https://amzn.to/2x3yz2A
+
+  - name: Trim bin
+    urls:
+      - zone: US
+        image: assets/trimming_bin.png
+        url: https://amzn.to/2VJw6EV
+
+  - name: Gloves
+    urls:
+      - zone: US
+        image: assets/gloves.png
+        url: https://amzn.to/38f0CJe

@@ -1,0 +1,62 @@
+title: When should you trim your plant
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Trim before drying (wet trim) if you have high humidity (RH>50%)to allow better airflow around your buds and prevent moisutre build up (mold).
+    Trim after drying (dry trim) if you have low humidity (RH<50%)to preserve some moisture around the buds and avoid them drying too quickly (hay smell).
+
+ctas:
+  - title: Wet trim
+    actions:
+      - type: tip
+        params:
+        tip_id: 40_harvest\20_mid\10_how_to_trim
+
+      - type: set_key
+        params:
+          key: trim_type
+          value: wet
+  
+  - title: Dry trim
+    actions:
+      - type: tip
+        params:
+          tip_id: 40_harvest\20_mid\20_how_to_dry
+
+      - type: set_key
+        params:
+          key: trim_type
+          value: dry
+
+
+products:
+  - name: Pruning shears
+    urls:
+      - zone: US
+        image: assets/fiskar_pruning.png
+        url: https://amzn.to/2Tg72nm
+
+  - name: Trimming scisors
+    urls:
+      - zone: US
+        image: assets/trimming_scisors.png
+        url: https://amzn.to/2x3yz2A
+
+  - name: Trim bin
+    urls:
+      - zone: US
+        image: assets/trimming_bin.png
+        url: https://amzn.to/2VJw6EV
+
+  - name: Gloves
+    urls:
+      - zone: US
+        image: assets/gloves.png
+        url: https://amzn.to/38f0CJe

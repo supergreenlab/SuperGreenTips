@@ -1,0 +1,47 @@
+title: How to dry your buds
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    You want your buds to dry slowly enough to avoid "hay smell" while avoiding moisture build-up to prevent molding.
+    Place your buds evenly in a drying rack or hang them upside down in a dark and well ventilated place.
+    Check on them daily until the small stems snap and the bigger ones bend (3-7days)
+    Buds should feel dry to the touch.
+
+products:
+
+  - name: Drying rack
+    urls:
+      - zone: US
+        image: assets/drying_rack.png
+        url: https://amzn.to/2xbW6yr
+  
+  - name: Pruning shears
+    urls:
+      - zone: US
+        image: assets/fiskar_pruning.png
+        url: https://amzn.to/2Tg72nm https://amzn.to/2xbW6yr
+
+  - name: Trimming scisors
+    urls:
+      - zone: US
+        image: assets/trimming_scisors.png
+        url: https://amzn.to/2x3yz2A
+
+  - name: Trim bin
+    urls:
+      - zone: US
+        image: assets/trimming_bin.png
+        url: https://amzn.to/2VJw6EV
+
+  - name: Gloves
+    urls:
+      - zone: US
+        image: assets/gloves.png
+        url: https://amzn.to/38f0CJe

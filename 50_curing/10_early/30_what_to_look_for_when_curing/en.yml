@@ -1,0 +1,53 @@
+title: What to look for when curing
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Before opening the jar shake it, buds should move independently, if the buds stick together they're still wet and need more drying.
+    When opening, it should smell like good weed and improve as it cures, if you smell 'ammonia' the bud is too humid and bacteria are starting to develop... not good
+    Your buds should feel dry to the touch, if they are moist leave the top open longer, if wet they need more drying outside the jar
+
+reminders:
+  - delay: 24h
+    text: Check on your curing buds
+    next: 50_curing\10_early\30_what_to_look_for_when_curing
+    
+ctas:
+  - title: Experiment observations
+    actions:
+      - type: observation
+        params:
+        experiment_id: curing_duration
+    
+products:
+  - name: Mason jars
+    urls:
+      - zone: US
+        image: assets/mason_jar.png
+        url: https://amzn.to/2TBIZOu
+
+  - name: Mini hygrometer
+    urls:
+      - zone: US
+        image: assets/mini_hygrometer.png
+        url: https://amzn.to/2TTu9mP
+
+  - name: Boveda pack 62%
+    urls:
+      - zone: US
+        image: assets/boveda_pack.png
+        url: https://amzn.to/2vxKkhv
+
+triggers:
+  - id: TEMPERATURE
+    metric: TEMP
+    value: 20-22
+  - id: HUMIDITY
+    metric: HUMI
+    value: 60-65

@@ -1,0 +1,46 @@
+title: Why cure your buds
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Curing is what makes the difference between 'weed' and award-winning cannabis; it is the ultimate delayed gratification challenge.
+    Improving smoothness and taste, revealing the true flavours and smell while removing the 'hay smell' - curing is worth it!
+    The best way to understand the difference is to experiment yourself by sampling during the curing process.
+    Sample over the course of at least one month, the more you wait the better it gets!
+    
+products:
+  - name: Mason jars
+    urls:
+      - zone: US
+        image: assets/mason_jar.png
+        url: https://amzn.to/2TBIZOu
+
+  - name: Mini hygrometer
+    urls:
+      - zone: US
+        image: assets/mini_hygrometer.png
+        url: https://amzn.to/2TTu9mP
+
+  - name: Boveda pack 62%
+    urls:
+      - zone: US
+        image: assets/boveda_pack.png
+        url: https://amzn.to/2vxKkhv
+
+triggers:
+  - id: TEMPERATURE
+    metric: TEMP
+    value: 20-22
+  - id: HUMIDITY
+    metric: HUMI
+    value: 60-65
+
+sources:
+  - title: Growweedeasy
+    url: https://www.growweedeasy.com/drying-curing

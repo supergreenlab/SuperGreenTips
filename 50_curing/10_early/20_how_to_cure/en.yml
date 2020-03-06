@@ -1,0 +1,63 @@
+title: How to cure your buds
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Curing is all about controlling the humidity of the environment.
+    Keep your buds stored in an closed container between 60-65%% relative humidity.
+    1. Fill your mason jars 75% with bud *note: keep 1 bud if you wish to experiment with different curing stages*
+    2. Place te boveda pack inside, it will auto-regulate the humidity inside the jar
+    3. Close the lid tighly
+    4. Place the jars in a dark dry place
+    4. Check up on them and air them out a few minutes each day during the first week
+    *note: leave a hygrometer in a jar to know exactly how it's going on inside; no more guesswork*
+    If you have high humidity and are worried about mold, check te jars multiple times per day to be safe.
+
+reminders:
+  - delay: 24h
+    text: What to look out for when curing your buds?
+    next: 50_curing\10_early\30_what_to_look_for_when_curing
+
+ctas:
+  - title: Experiment observations
+    actions:
+      - type: observation
+        params:
+        experiment_id: curing_duration
+    
+products:
+  - name: Mason jars
+    urls:
+      - zone: US
+        image: assets/mason_jar.png
+        url: https://amzn.to/2TBIZOu
+
+  - name: Mini hygrometer
+    urls:
+      - zone: US
+        image: assets/mini_hygrometer.png
+        url: https://amzn.to/2TTu9mP
+
+  - name: Boveda pack 62%
+    urls:
+      - zone: US
+        image: assets/boveda_pack.png
+        url: https://amzn.to/2vxKkhv
+
+triggers:
+  - id: TEMPERATURE
+    metric: TEMP
+    value: 20-22
+  - id: HUMIDITY
+    metric: HUMI
+    value: 60-65
+
+sources:
+  - title: International Cannagraphic Mag
+    url: https://www.icmag.com/ic/showthread.php?t=156237

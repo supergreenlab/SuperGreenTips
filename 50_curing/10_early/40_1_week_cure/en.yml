@@ -1,0 +1,25 @@
+title: 1 week cure
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Time to sample your harvest after it's 1st week of curing :)
+    
+ctas:
+  - title: Experiment observations
+    actions:
+      - type: observation
+        params:
+        experiment_id: curing_duration
+
+  - title: What to look out for when curing?
+    actions:
+      - type: tip
+        params:
+          tip_id: 50_curing\10_early\30_what_to_look_for_when_curing

@@ -1,0 +1,27 @@
+title: Long term storage curing
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 42
+intro:
+  image:
+    url: assets/pic.png
+    layout: left
+  text: |
+    Time to sample your harvest after 4 weeks of curing :)
+    You should smell, taste, and feel the difference between now and the previous samples.
+    Remember that it's just the beginning, you can cure for longer to improve your buds's quality even more!
+    
+ctas:
+  - title: Experiment observations
+    actions:
+      - type: observation
+        params:
+        experiment_id: curing_duration
+
+  - title: What to look out for when curing?
+    actions:
+      - type: tip
+        params:
+          tip_id: 50_curing\10_early\30_what_to_look_for_when_curing

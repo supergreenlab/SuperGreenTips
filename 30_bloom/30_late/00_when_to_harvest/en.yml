@@ -9,7 +9,7 @@ intro:
     url: assets/pic.png
     layout: left
   text: |
-    Trichomes give the best indicator for maturity in cannabis, so use them as your guide to harvest.
+    Trichomes are the best indicator for cannabis maturity, use them as your guide to harvest:
     clear and translucent: immature
     cloudy and translucent: energetic high
     cloudy and amber: body high
@@ -19,22 +19,22 @@ products:
     urls:
       - zone: US
         image: assets/jewler_loupe.png
-        url: https://www.amazon.com/DBPOWER-Illuminated-Jewelers-Magnifier-Magnifying/dp/B00K0BGNNC/
+        url: https://amzn.to/32ILSBb
 
   - name: Handheld microscope x60-x120
     urls:
       - zone: US
         image: assets/microscope.png
-        url:   https://www.amazon.com/Carson-MicroBrite-60x-120x-Lighted-Microscope/dp/B00LAX52IQ
+        url:   https://amzn.to/32JLceX
 
   - name: Trimming scisors
     urls:
       - zone: US
         image: assets/trimming_scisors.png
-        url: https://www.amazon.com/dp/B01LQ8E5KK
+        url: https://amzn.to/2x3yz2A
 
   - name: Trim bin
     urls:
       - zone: US
         image: assets/trimming_bin.png
-        url: https://www.amazon.com/TrimBin-Harvest-More-Trim-Black/dp/B00L4NJSBE/
+        url: https://amzn.to/2VJw6EV
