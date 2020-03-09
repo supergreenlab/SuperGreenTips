@@ -3,7 +3,7 @@ tags:
   - sgl
   - vertical
   - soil
-reftime: 42
+reftime: 28-35
 intro:
   image:
     url: assets/pic.png
@@ -14,3 +14,5 @@ intro:
 reminders:
   - delay: 24h-48h
     text: Check up on topping recovery
+  - delay: 3-7d
+    text: Ready to switch to bloom?
