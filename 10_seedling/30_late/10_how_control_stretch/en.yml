@@ -15,7 +15,19 @@ intro:
      Monitor the growth over the next few days.
      
 reminders:
-  - id: WATERING
+  - id: watering
     interval: 4-7d
     text: Check the soil
+
+  - id: stretch
+    interval: 3-6d
+    text: Check up on stretch
+
+    ctas:
+      - title: Stretch observations
+        actions:
+          - type: observation
+            params:
+            experiment_id: stretch
+            measure_id: internodal
 

@@ -96,8 +96,10 @@ ctas:
           key: trim_type
           value: wet
   
-  - title: Experiment observations
-    actions:
-      - type: observation
-        params:
-        experiment_id: curing
+    ctas:
+      - title: Stretch observations
+        actions:
+          - type: observation
+            params:
+            experiment_id: stretch
+            measure_id: internodal
