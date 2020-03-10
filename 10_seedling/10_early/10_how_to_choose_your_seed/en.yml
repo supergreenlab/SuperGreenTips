@@ -6,7 +6,7 @@ tags:
 reftime: 0
 intro:
   image:
-    url: assets/pic.png
+    url: assets/seeds.png
     layout: left
   text: |
     **Genetics matter**; get your seeds from reputable seedbanks!
@@ -56,3 +56,7 @@ sections:
         link:
           title: BUY SEEDS
           to: https://www.paradise-seeds.com/en?acc=58238e9ae2dd305d79c2ebc8c1883422
+
+sources:
+  - title: Royal Queen Seeds
+    url: https://www.royalqueenseeds.com/content/146-choose-the-right-cannabis-seeds-for-your-particular-needs
