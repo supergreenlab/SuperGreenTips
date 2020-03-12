@@ -27,6 +27,7 @@ products:
         image: assets/clay_balls.png
         url: https://www.amazon.de/dp/B07KK9ZPRZ
   - name: Small pot
+    urls:
       - zone: EU
         image: assets/small_pot.png
         url: https://www.amazon.de/dp/B07KK9ZPRZ
