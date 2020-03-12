@@ -6,7 +6,7 @@ tags:
 reftime: 1-2
 intro:
   image:
-    url: assets/pic.png
+    url: assets/how_to_sow_seed.png
     layout: left
   text: |
     The seed has sprouted! Time to **sow** it in it's first pot :)
@@ -27,6 +27,9 @@ products:
         image: assets/clay_balls.png
         url: https://www.amazon.de/dp/B07KK9ZPRZ
   - name: Small pot
+      - zone: EU
+        image: assets/small_pot.png
+        url: https://www.amazon.de/dp/B07KK9ZPRZ
 
 reminders:
   - delay: 1d

@@ -3,10 +3,10 @@ tags:
   - sgl
   - vertical
   - soil
-reftime: 6
+reftime: 7
 intro:
   image:
-    url: assets/pic.png
+    url: assets/how_to_control_stretch.png
     layout: left
   text: |
      Plants strecth to reach adequate lighting.

@@ -3,13 +3,13 @@ tags:
   - sgl
   - vertical
   - soil
-reftime: 5
+reftime: 4-5
 intro:
   image:
-    url: assets/pic.png
+    url: assets/when_to_water.gif
     layout: left
   text: |
-    It's going to take a few days for the soil to dry, check every 2 days.
+    It's going to take a few days for the soil to dry, checking every 2 days is a good frequency.
     Should you water?
     1. Sight: look at the soil, does it look dry? yes->step2
     2. Touch: place finger in the soil 1 knuckle deep, is the soil dry? yes->step3
