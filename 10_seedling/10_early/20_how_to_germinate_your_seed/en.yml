@@ -6,7 +6,7 @@ tags:
 reftime: 0
 intro:
   image:
-    url: assets/how_to_germinate_seed.png
+    url: how_to_germinate_seed.png
     layout: left
   text: |
     Now that you have your seed, the first step is **germination**:
@@ -16,7 +16,7 @@ intro:
   sections:
   - title: Germination secrets explained
     image:
-      url: assets/germination.png
+      url: germination.png
       layout: full
     text: |
       Seeds are made to survive through winter and sprout when 3 conditions are met:
