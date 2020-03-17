@@ -3,7 +3,7 @@ tags:
   - sgl
   - vertical
   - soil
-reftime: 4-5
+reftime: 5-7
 intro:
   image:
     url: assets/how_to_water.png
@@ -17,3 +17,35 @@ reminders:
   - id: WATERING
     interval: 4-7d
     text: Check the soil using the 3 step techique; sight, touch, and weight.
+
+products:
+  
+  - name: pH meter
+    urls:
+      - zone: DE
+        image: assets/ph_meter.png
+        url: https://amzn.to/2U8Yvlf
+  
+  - name: Digital scale
+    urls:
+      - zone: DE
+        image: assets/digital_scale.png
+        url: https://amzn.to/2UcvKUG
+
+  - name: pH reducer
+    urls:
+      - zone: DE
+        image: assets/ph_reducer.png
+        url: https://amzn.to/2Ufav4y
+
+  - name: pH increaser
+    urls:
+      - zone: DE
+        image: assets/ph_increaser.png
+        url: https://amzn.to/3b3hc0D
+
+  - name: Mega Crop
+    urls:
+      - zone: DE
+        image: assets/mega_crop.png
+        url: https://greenleafnutrients.com/product/mega-crop/

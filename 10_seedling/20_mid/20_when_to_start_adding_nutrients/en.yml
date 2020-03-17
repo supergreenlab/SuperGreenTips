@@ -1,25 +1,16 @@
-title: When to water your seedling
+title: When to start adding nutrients
 tags:
   - sgl
   - vertical
   - soil
-reftime: 4-5
+reftime: 5-7
 intro:
   image:
-    url: assets/when_to_water.gif
+    url: when_to_add_nutrients.png
     layout: left
   text: |
-    It's going to take a few days for the soil to dry, checking every 2 days is a good frequency.
-    Should you water?
-    1. Sight: look at the soil, does it look dry? yes->step2
-    2. Touch: place finger in the soil 1 knuckle deep, is the soil dry? yes->step3
-    3. Weight: pick up the pot, does it feel very light? yes-> time to water :)
-    *note: it's safer to let the soil dry an extra day if you are unsure than to water and risk over-watering*
-
-reminders:
-  - id: WATERING
-    interval: 4-7d
-    text: Check the soil using the 3 step techique; sight, touch, and weight.
+    The seed packs enough nutrients for the cotyledons (1st set of round leaves).
+    Start feeding your seedling with a mild dose of fertilizer after the first set of true leaves .
 
 products:
   
@@ -46,7 +37,7 @@ products:
       - zone: DE
         image: assets/ph_increaser.png
         url: https://amzn.to/3b3hc0D
-
+        
   - name: Mega Crop
     urls:
       - zone: DE

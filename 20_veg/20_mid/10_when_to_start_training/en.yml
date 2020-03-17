@@ -12,3 +12,16 @@ intro:
     Increase yield potential by training your plant to best fit it's space and light configuration.
     In tight spaces with vertical lighting it's simple, training starts with a healthy plant having between 3-5 nodes.
     *important note: only train a healthy plant - training a sick/weak plant may harm the plant*
+
+products:
+  - name: Coated wire
+    urls:
+      - zone: DE
+        image: assets/coated_wire.png
+        url: https://amzn.to/39WX4gl
+
+  - name: Coated wire
+    urls:
+      - zone: DE
+        image: assets/coated_wirepng
+        url: https://amzn.to/39WX4gl

@@ -10,7 +10,7 @@ intro:
     layout: left
   text: |
     Now that you have your seed, the first step is **germination**:
-    1. Put the seed in a glass filled with slightly warm water.
+    1. Put the seed in a glass filled with room temperature water.
     2. Put the glass in a dark place for 24 hours.
 
   sections:
@@ -33,3 +33,29 @@ reminders:
   - delay: 24h
     text: Take your seed out of the water, it should have sprouted!
     next: 10_veg/10_early/20_how_to_sow_your_seed
+
+products:
+  
+  - name: Light mix soil
+    urls:
+      - zone: DE
+        image: assets/light_mix.png
+        url: https://amzn.to/2IPzaHF
+  
+  - name: Clay balls
+    urls:
+      - zone: DE
+        image: assets/clay_balls.png
+        url: https://amzn.to/2WfA2gC
+  
+  - name:   Small pot
+    urls:
+      - zone: DE
+        image: assets/small_pot.png
+        url: https://amzn.to/2voqPaP
+          
+  - name: pH meter
+    urls:
+      - zone: DE
+        image: assets/ph_meter.png
+        url: https://amzn.to/2U8Yvlf

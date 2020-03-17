@@ -19,17 +19,37 @@ sections:
       url: assets/pic.png
       layout: full
     text: |
-      We curated a list of the best most reputable seedbanks the community uses.
+      We curated a list of the best most reputable seedbanks the community uses (ordered alphabetically).
       *Help us keep this guide free by using our affiliate links below.*
 
     subsections:
+
+      - title: ILoveGrowingMarijuana
+        image:
+          url: assets/pic.png
+          layout: left
+        text: |
+          IloveGrowing Marijuana, founded by Robert Bergman, may not have the most extensive collection, but you are sure of buying exceptionally quality seeds.
+        link:
+          title: BUY SEEDS
+          to: https://shop.ilovegrowingmarijuana.com?aff=4839
+
+      - title: Paradise Seeds
+        image:
+          url: assets/pic.png
+          layout: left
+        text: |
+          Paradise Seeds is based out of Amsterdam and has been in operation since the early 1990s, making it one of the longest-established seedbanks on the internet.
+        link:
+          title: BUY SEEDS
+          to: https://www.paradise-seeds.com/en?acc=58238e9ae2dd305d79c2ebc8c1883422
+
       - title: Seedsman
         image:
           url: assets/pic.png
           layout: left
         text: |
           Seedsman has been in business since 2003, making them one of the older online seed banks around. With strains from over 120 breeders they have one of the largest seed catalogs in the world!
-          
         link:
           title: BUY SEEDS
           to: https://www.seedsman.com/en/?a_aid=5e467237479ff
@@ -40,21 +60,10 @@ sections:
           layout: left
         text: |
           Sensi Seeds pioneered the cannabis seed industry in 1985. Today, the company is the world’s largest cannabis seedbank with over 500 varieties. These genetics and the brand name have become true classics in the cannabis community.
-          
         link:
           title: BUY SEEDS
           to: https://sensiseeds.com?a_aid=SuperGreenLab
           
-      - title: Paradise Seeds
-        image:
-          url: assets/pic.png
-          layout: left
-        text: |
-          Paradise Seeds is based out of Amsterdam and has been in operation since the early 1990s, making it one of the longest-established seedbanks on the internet.
-          
-        link:
-          title: BUY SEEDS
-          to: https://www.paradise-seeds.com/en?acc=58238e9ae2dd305d79c2ebc8c1883422
 
 sources:
   - title: Royal Queen Seeds

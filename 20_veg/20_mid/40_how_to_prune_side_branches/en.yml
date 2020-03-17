@@ -14,3 +14,23 @@ intro:
     1. Check your plants growth by nodes; #1 and #2 are usually quite weak, #3 and #4 are the ones you're interested in.
     2. Select the axis showing the best growth, node thickness
     3. Cut all side branches that are perpendicular to your selected axis.
+
+products:
+
+  - name: Coated wire
+    urls:
+      - zone: DE
+        image: assets/coated_wire.png
+        url: https://amzn.to/39WX4gl
+
+  - name: Trimming shears
+    urls:
+      - zone: DE
+        image: assets/trimming_shears.png
+        url: https://amzn.to/2ITakGS
+
+  - name: Trimming shears
+    urls:
+      - zone: DE
+        image: assets/prunning_shears.png
+        url: https://amzn.to/2IPrg11

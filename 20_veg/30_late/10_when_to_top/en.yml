@@ -11,3 +11,17 @@ intro:
   text: |
     Topping is a pruning method which consists in cutting the main stem to multiply the number of main colas and boost the side branches.
     When the plant reaches 60%-75% max height it's time to top :)
+
+products:
+
+  - name: Trimming shears
+    urls:
+      - zone: DE
+        image: assets/trimming_shears.png
+        url: https://amzn.to/2ITakGS
+
+  - name: Trimming shears
+    urls:
+      - zone: DE
+        image: assets/prunning_shears.png
+        url: https://amzn.to/2IPrg11

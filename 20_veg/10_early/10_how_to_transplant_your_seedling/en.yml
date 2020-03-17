@@ -9,7 +9,7 @@ intro:
     url: assets/how_to_translplant_seedling.png
     layout: left
   text: |
-    1. Put a layer of clay balls at the bottom of the fabric pot
+    1. Put 1 layer of clay balls at the bottom of the fabric pot
     2. Wet your soil in a separate container and add it to the pot
     **note: make sure to tamp the soil - loose soil = dead roots**
     3. Dig out a hole the size of the seedling container
@@ -27,3 +27,28 @@ intro:
     notification: TODO
     metric: HUMI
     value: 40-70
+
+products:
+  - name: 3gal Fabric pot
+    urls:
+      - zone: DE
+        image: assets/fabric_pot.png
+        url: https://amzn.to/3d3wh48
+          
+  - name: Light mix soil
+    urls:
+      - zone: DE
+        image: assets/light_mix.png
+        url: https://amzn.to/2IPzaHF
+  
+  - name: Clay balls
+    urls:
+      - zone: DE
+        image: assets/clay_balls.png
+        url: https://amzn.to/2WfA2gC
+          
+  - name: pH meter
+    urls:
+      - zone: DE
+        image: assets/ph_meter.png
+        url: https://amzn.to/2U8Yvlf

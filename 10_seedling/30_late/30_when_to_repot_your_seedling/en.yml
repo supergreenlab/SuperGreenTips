@@ -13,8 +13,26 @@ intro:
     When the set or sets of true leaves of the seedling have spread out to cover the circumference of the container, it’s time.
   
 products:
-  - name: 1gal Fabric pot
+  - name: 3gal Fabric pot
     urls:
-      - zone: US
+      - zone: DE
         image: assets/fabric_pot.png
-        url: https://www.amazon.com/dp/B013JFHNNE
+        url: https://amzn.to/3d3wh48
+          
+  - name: Light mix soil
+    urls:
+      - zone: DE
+        image: assets/light_mix.png
+        url: https://amzn.to/2IPzaHF
+  
+  - name: Clay balls
+    urls:
+      - zone: DE
+        image: assets/clay_balls.png
+        url: https://amzn.to/2WfA2gC
+          
+  - name: pH meter
+    urls:
+      - zone: DE
+        image: assets/ph_meter.png
+        url: https://amzn.to/2U8Yvlf

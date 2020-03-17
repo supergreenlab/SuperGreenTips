@@ -1,25 +1,28 @@
-title: When to water your seedling
+title: When to start adding nutrients
 tags:
   - sgl
   - vertical
   - soil
-reftime: 4-5
+  - megacrop
+reftime: 5-7
 intro:
   image:
-    url: assets/when_to_water.gif
+    url: assets/pic.png
     layout: left
   text: |
-    It's going to take a few days for the soil to dry, checking every 2 days is a good frequency.
-    Should you water?
-    1. Sight: look at the soil, does it look dry? yes->step2
-    2. Touch: place finger in the soil 1 knuckle deep, is the soil dry? yes->step3
-    3. Weight: pick up the pot, does it feel very light? yes-> time to water :)
-    *note: it's safer to let the soil dry an extra day if you are unsure than to water and risk over-watering*
+    Preparing your Mega Crop nutrient solution is simple.
+    The Mega Crop calculator takes care of all the math.
+    Follow the 3 steps to figure out exactly how much Mega Crop you need in your volume.
+    1. Weih the amount you need
+    2. Dilute it in a smaller container with water before pouring it in your final container
+    3. Mix and check pH
 
-reminders:
-  - id: WATERING
-    interval: 4-7d
-    text: Check the soil using the 3 step techique; sight, touch, and weight.
+ctas:
+  - title: Go to calculator
+    actions:
+      - type: link
+        params:
+        url: https://greenleafnutrients.com/feeding-calculator
 
 products:
   
