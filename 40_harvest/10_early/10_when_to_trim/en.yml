@@ -6,7 +6,7 @@ tags:
 reftime: 98-105
 intro:
   image:
-    url: assets/when_to_trim.png
+    url: when_to_trim.png
     layout: left
   text: |
     Trim before drying (wet trim) if you have high humidity (RH>50%)to allow better airflow around your buds and prevent moisutre build up (mold).
@@ -40,23 +40,23 @@ products:
   - name: Pruning shears
     urls:
       - zone: US
-        image: assets/fiskar_pruning.png
+        image: fiskar_pruning.png
         url: https://amzn.to/2Tg72nm
 
   - name: Trimming scisors
     urls:
       - zone: US
-        image: assets/trimming_scisors.png
+        image: trimming_scisors.png
         url: https://amzn.to/2x3yz2A
 
   - name: Trim bin
     urls:
       - zone: US
-        image: assets/trimming_bin.png
+        image: trimming_bin.png
         url: https://amzn.to/2VJw6EV
 
   - name: Gloves
     urls:
       - zone: US
-        image: assets/gloves.png
+        image: gloves.png
         url: https://amzn.to/38f0CJe

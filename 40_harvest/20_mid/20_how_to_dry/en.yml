@@ -6,7 +6,7 @@ tags:
 reftime: 105-112
 intro:
   image:
-    url: assets/how_to_dry.png
+    url: how_to_dry.png
     layout: left
   text: |
     You want your buds to dry slowly enough to avoid "hay smell" while avoiding moisture build-up to prevent molding.
@@ -19,29 +19,29 @@ products:
   - name: Drying rack
     urls:
       - zone: US
-        image: assets/drying_rack.png
+        image: drying_rack.png
         url: https://amzn.to/2xbW6yr
   
   - name: Pruning shears
     urls:
       - zone: US
-        image: assets/fiskar_pruning.png
+        image: fiskar_pruning.png
         url: https://amzn.to/2Tg72nm https://amzn.to/2xbW6yr
 
   - name: Trimming scisors
     urls:
       - zone: US
-        image: assets/trimming_scisors.png
+        image: trimming_scisors.png
         url: https://amzn.to/2x3yz2A
 
   - name: Trim bin
     urls:
       - zone: US
-        image: assets/trimming_bin.png
+        image: trimming_bin.png
         url: https://amzn.to/2VJw6EV
 
   - name: Gloves
     urls:
       - zone: US
-        image: assets/gloves.png
+        image: gloves.png
         url: https://amzn.to/38f0CJe

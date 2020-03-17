@@ -6,7 +6,7 @@ tags:
 reftime: 98-105
 intro:
   image:
-    url: assets/when_to_harvest.png
+    url: when_to_harvest.png
     layout: left
   text: |
     Trichomes are the best indicator for cannabis maturity, use them as your guide to harvest:
@@ -19,23 +19,23 @@ products:
   - name: Jewler's loupe x60
     urls:
       - zone: US
-        image: assets/jewler_loupe.png
+        image: jewler_loupe.png
         url: https://amzn.to/32ILSBb
 
   - name: Handheld microscope x60-x120
     urls:
       - zone: US
-        image: assets/microscope.png
+        image: microscope.png
         url:   https://amzn.to/32JLceX
 
   - name: Trimming scisors
     urls:
       - zone: US
-        image: assets/trimming_scisors.png
+        image: trimming_scisors.png
         url: https://amzn.to/2x3yz2A
 
   - name: Trim bin
     urls:
       - zone: US
-        image: assets/trimming_bin.png
+        image: trimming_bin.png
         url: https://amzn.to/2VJw6EV

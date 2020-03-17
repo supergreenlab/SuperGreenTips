@@ -6,7 +6,7 @@ tags:
 reftime: 0
 intro:
   image:
-    url: assets/how_to_choose_seed.png
+    url: how_to_choose_seed.png
     layout: left
   text: |
     **Genetics matter**; get your seeds from reputable seedbanks!
@@ -16,7 +16,7 @@ intro:
 sections:
   - title: Recommended seedbanks
     image:
-      url: assets/pic.png
+      url: pic.png
       layout: full
     text: |
       We curated a list of the best most reputable seedbanks the community uses (ordered alphabetically).
@@ -46,7 +46,7 @@ sections:
 
       - title: Seedsman
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Seedsman has been in business since 2003, making them one of the older online seed banks around. With strains from over 120 breeders they have one of the largest seed catalogs in the world!
@@ -56,14 +56,13 @@ sections:
 
       - title: Sensi Seeds
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Sensi Seeds pioneered the cannabis seed industry in 1985. Today, the company is the world’s largest cannabis seedbank with over 500 varieties. These genetics and the brand name have become true classics in the cannabis community.
         link:
           title: BUY SEEDS
           to: https://sensiseeds.com?a_aid=SuperGreenLab
-          
 
 sources:
   - title: Royal Queen Seeds

@@ -6,7 +6,7 @@ tags:
 reftime: 42
 intro:
   image:
-    url: assets/pic.png
+    url: pic.png
     layout: left
   text: |
     Now that your grow box is ready and that you have your seed; *let’s get growing!*
@@ -24,7 +24,7 @@ intro:
 sections:
   - title: Section title
     image:
-      url: assets/pic.png
+      url: pic.png
       layout: full
     text: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -36,7 +36,7 @@ sections:
     subsections:
       - title: List item title
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -49,7 +49,7 @@ sections:
 
       - title: List item title 2
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -64,7 +64,7 @@ products:
   - name: Light mix soil
     urls:
       - zone: EU
-        image: assets/monkey_soil.png
+        image: monkey_soil.png
         url: https://www.monkeysoil.com/en/product/light-mix-evolution/
 
 sources:
