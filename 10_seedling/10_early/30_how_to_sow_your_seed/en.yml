@@ -6,7 +6,7 @@ tags:
 reftime: 1-2
 intro:
   image:
-    url: assets/how_to_sow_seed.png
+    url: how_to_sow_seed.png
     layout: left
   text: |
     The seed has sprouted! Time to **sow** it in it's first pot :)
@@ -19,17 +19,17 @@ products:
   - name: Light mix soil
     urls:
       - zone: EU
-        image: assets/monkey_soil.png
+        image: monkey_soil.png
         url: https://www.monkeysoil.com/en/product/light-mix-evolution/
   - name: Clay balls
     urls:
       - zone: EU
-        image: assets/clay_balls.png
+        image: clay_balls.png
         url: https://www.amazon.de/dp/B07KK9ZPRZ
   - name: Small pot
     urls:
       - zone: EU
-        image: assets/small_pot.png
+        image: small_pot.png
         url: https://www.amazon.de/dp/B07KK9ZPRZ
 
 reminders:
