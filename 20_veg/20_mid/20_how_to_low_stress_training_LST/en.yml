@@ -6,7 +6,7 @@ tags:
 reftime: 15-18
 intro:
   image:
-    url: assets/how_to_low_stress_training_LST.png
+    url: how_to_low_stress_training_LST.png
     layout: left
   text: |
     Low Stress Training are methods that as the name imply don't cause much stress.
@@ -17,7 +17,7 @@ products:
   - name: Gardening wire
     urls:
       - zone: EU
-        image: assets/gardening_wire.png
+        image: gardening_wire.png
         url: https://amzn.to/2wB2Zc2
 
 reminders:

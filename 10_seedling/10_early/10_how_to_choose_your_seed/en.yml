@@ -16,7 +16,7 @@ intro:
 sections:
   - title: Recommended seedbanks
     image:
-      url: assets/pic.png
+      url: pic.png
       layout: full
     text: |
       We curated a list of the best most reputable seedbanks the community uses.
@@ -25,7 +25,7 @@ sections:
     subsections:
       - title: Seedsman
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Seedsman has been in business since 2003, making them one of the older online seed banks around. With strains from over 120 breeders they have one of the largest seed catalogs in the world!
@@ -36,7 +36,7 @@ sections:
 
       - title: Sensi Seeds
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Sensi Seeds pioneered the cannabis seed industry in 1985. Today, the company is the world’s largest cannabis seedbank with over 500 varieties. These genetics and the brand name have become true classics in the cannabis community.
@@ -47,7 +47,7 @@ sections:
           
       - title: Paradise Seeds
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Paradise Seeds is based out of Amsterdam and has been in operation since the early 1990s, making it one of the longest-established seedbanks on the internet.

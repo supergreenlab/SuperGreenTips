@@ -6,7 +6,7 @@ tags:
 reftime: 112-119
 intro:
   image:
-    url: assets/why_cure.png
+    url: why_cure.png
     layout: left
   text: |
     Curing is what makes the difference between 'weed' and award-winning cannabis; it is the ultimate delayed gratification challenge.
@@ -18,19 +18,19 @@ products:
   - name: Mason jars
     urls:
       - zone: US
-        image: assets/mason_jar.png
+        image: mason_jar.png
         url: https://amzn.to/2TBIZOu
 
   - name: Mini hygrometer
     urls:
       - zone: US
-        image: assets/mini_hygrometer.png
+        image: mini_hygrometer.png
         url: https://amzn.to/2TTu9mP
 
   - name: Boveda pack 62%
     urls:
       - zone: US
-        image: assets/boveda_pack.png
+        image: boveda_pack.png
         url: https://amzn.to/2vxKkhv
 
 triggers:

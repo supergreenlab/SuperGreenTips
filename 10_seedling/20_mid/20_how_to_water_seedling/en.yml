@@ -6,7 +6,7 @@ tags:
 reftime: 4-5
 intro:
   image:
-    url: assets/how_to_water.png
+    url: how_to_water.png
     layout: left
   text: |
     **Slowly** pour your PH adjusted solution evenly on the surface of the pot until you see run off through the drainage holes in the bottom of the pot.

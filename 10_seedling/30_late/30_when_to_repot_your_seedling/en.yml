@@ -16,5 +16,5 @@ products:
   - name: 1gal Fabric pot
     urls:
       - zone: US
-        image: assets/fabric_pot.png
+        image: fabric_pot.png
         url: https://www.amazon.com/dp/B013JFHNNE

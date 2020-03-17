@@ -6,7 +6,7 @@ tags:
 reftime: 35-42
 intro:
   image:
-    url: assets/how_to_prepare_bloom_nutrients.png
+    url: how_to_prepare_bloom_nutrients.png
     layout: left
   text: |
     Plants'nutrient needs change when going into flowering.
@@ -17,5 +17,5 @@ products:
   - name: Mega crop
     urls:
       - zone: US
-        image: assets/mega_crop.png
+        image: mega_crop.png
         url: https://greenleafnutrients.com/product/mega-crop/

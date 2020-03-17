@@ -6,7 +6,7 @@ tags:
 reftime: 7
 intro:
   image:
-    url: assets/how_to_control_stretch.png
+    url: how_to_control_stretch.png
     layout: left
   text: |
      Plants strecth to reach adequate lighting.

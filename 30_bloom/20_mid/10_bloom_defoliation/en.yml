@@ -6,7 +6,7 @@ tags:
 reftime: 49-56
 intro:
   image:
-    url: assets/bloom_defoliation.png
+    url: bloom_defoliation.png
     layout: left
   text: |
     It's time to defoliate!

@@ -6,7 +6,7 @@ tags:
 reftime: 112-119
 intro:
   image:
-    url: assets/what_to_look_for_when_curing.png
+    url: what_to_look_for_when_curing.png
     layout: left
   text: |
     Before opening the jar shake it, buds should move independently, if the buds stick together they're still wet and need more drying.
@@ -29,19 +29,19 @@ products:
   - name: Mason jars
     urls:
       - zone: US
-        image: assets/mason_jar.png
+        image: mason_jar.png
         url: https://amzn.to/2TBIZOu
 
   - name: Mini hygrometer
     urls:
       - zone: US
-        image: assets/mini_hygrometer.png
+        image: mini_hygrometer.png
         url: https://amzn.to/2TTu9mP
 
   - name: Boveda pack 62%
     urls:
       - zone: US
-        image: assets/boveda_pack.png
+        image: boveda_pack.png
         url: https://amzn.to/2vxKkhv
 
 triggers:
