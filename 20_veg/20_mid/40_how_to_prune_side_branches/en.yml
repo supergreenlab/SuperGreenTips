@@ -20,17 +20,17 @@ products:
   - name: Coated wire
     urls:
       - zone: DE
-        image: assets/coated_wire.png
+        image: coated_wire.png
         url: https://amzn.to/39WX4gl
 
   - name: Trimming shears
     urls:
       - zone: DE
-        image: assets/trimming_shears.png
+        image: trimming_shears.png
         url: https://amzn.to/2ITakGS
 
   - name: Trimming shears
     urls:
       - zone: DE
-        image: assets/prunning_shears.png
+        image: prunning_shears.png
         url: https://amzn.to/2IPrg11

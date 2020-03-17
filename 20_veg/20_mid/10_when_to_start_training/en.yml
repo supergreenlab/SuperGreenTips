@@ -17,11 +17,11 @@ products:
   - name: Coated wire
     urls:
       - zone: DE
-        image: assets/coated_wire.png
+        image: coated_wire.png
         url: https://amzn.to/39WX4gl
 
   - name: Coated wire
     urls:
       - zone: DE
-        image: assets/coated_wirepng
+        image: coated_wirepng
         url: https://amzn.to/39WX4gl

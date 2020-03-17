@@ -17,11 +17,11 @@ products:
   - name: Trimming shears
     urls:
       - zone: DE
-        image: assets/trimming_shears.png
+        image: trimming_shears.png
         url: https://amzn.to/2ITakGS
 
   - name: Trimming shears
     urls:
       - zone: DE
-        image: assets/prunning_shears.png
+        image: prunning_shears.png
         url: https://amzn.to/2IPrg11

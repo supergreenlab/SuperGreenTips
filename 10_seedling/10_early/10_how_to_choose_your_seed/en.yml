@@ -26,7 +26,7 @@ sections:
 
       - title: ILoveGrowingMarijuana
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           IloveGrowing Marijuana, founded by Robert Bergman, may not have the most extensive collection, but you are sure of buying exceptionally quality seeds.
@@ -36,7 +36,7 @@ sections:
 
       - title: Paradise Seeds
         image:
-          url: assets/pic.png
+          url: pic.png
           layout: left
         text: |
           Paradise Seeds is based out of Amsterdam and has been in operation since the early 1990s, making it one of the longest-established seedbanks on the internet.

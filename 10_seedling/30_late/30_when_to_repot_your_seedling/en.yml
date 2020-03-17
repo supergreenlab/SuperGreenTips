@@ -16,23 +16,23 @@ products:
   - name: 3gal Fabric pot
     urls:
       - zone: DE
-        image: assets/fabric_pot.png
+        image: fabric_pot.png
         url: https://amzn.to/3d3wh48
           
   - name: Light mix soil
     urls:
       - zone: DE
-        image: assets/light_mix.png
+        image: light_mix.png
         url: https://amzn.to/2IPzaHF
   
   - name: Clay balls
     urls:
       - zone: DE
-        image: assets/clay_balls.png
+        image: clay_balls.png
         url: https://amzn.to/2WfA2gC
           
   - name: pH meter
     urls:
       - zone: DE
-        image: assets/ph_meter.png
+        image: ph_meter.png
         url: https://amzn.to/2U8Yvlf
