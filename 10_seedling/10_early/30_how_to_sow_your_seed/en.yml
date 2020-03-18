@@ -16,7 +16,7 @@ intro:
     2. Make a hole with your finger or a pen 1 fingernail deep
     3. Carfuly place the seed, cover it up with soil and tamp lightly
     4. Mist/hydrate lightly twice daily to keep moisture up
-    5. Consider adding a transparent dome to increase humidity if your is low (RH<50%)
+    5. Consider adding a transparent dome to increase humidity if your is low (RH<60%)
 
 products:
   
@@ -54,4 +54,4 @@ triggers:
   - id: HUMIDITY
     notification: TODO
     metric: HUMI
-    value: 40-70
+    value: 60-70

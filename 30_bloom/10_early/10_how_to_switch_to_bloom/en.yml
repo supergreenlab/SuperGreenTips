@@ -11,3 +11,14 @@ intro:
   text: |
     With the press of a button on the SuperGreenLab app, the controller switches the vegetative 18/6 light cycle to the flowering 12/12.
     Congratulations: Flowering day 0!
+
+triggers:
+  - id: TEMPERATURE
+    notification: TODO
+    metric: TEMP
+    value_day: 21-26
+    value_night: 17-24
+  - id: HUMIDITY
+    notification: TODO
+    metric: HUMI
+    value: 40-55

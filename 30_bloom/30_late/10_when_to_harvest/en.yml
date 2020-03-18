@@ -39,3 +39,14 @@ products:
       - zone: US
         image: trimming_bin.png
         url: https://amzn.to/2VJw6EV
+
+triggers:
+  - id: TEMPERATURE
+    notification: TODO
+    metric: TEMP
+    value_day: 21-24
+    value_night: 17-21
+  - id: HUMIDITY
+    notification: TODO
+    metric: HUMI
+    value: 30-40
