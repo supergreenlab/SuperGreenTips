@@ -10,13 +10,52 @@ intro:
     layout: left
   text: |
     The seed has sprouted! Time to **sow** it in it's first pot :)
-    1. Put 1 layer of clay balls in the small pot
-    1. Add soil, water it, repeat until the soil almost reaches the top
-    *note: this 'lip' will prevent water from overflowing when watering*
-    2. Make a hole with your finger or a pen 1 fingernail deep
-    3. Carfuly place the seed, cover it up with soil and tamp lightly
-    4. Mist/hydrate lightly twice daily to keep moisture up
-    5. Consider adding a transparent dome to increase humidity if your is low (RH<60%)
+    1. Cover the bottom of the pot with 1 layer of clay pebbles and rinse
+    2. Add soil, water it, repeat until the soil almost reaches the top
+    3. Make a hole with your finger or a pen 1/2in - 1.5cm deep (about 1 fingernail)
+    4. Carfully place the seed, cover it up with soil and tamp lightly
+    5. Place a transparent dome over the seedling to increase humidity if yours is low is low (RH<60%)
+
+sections:
+  - title: 1. Layer with lay pebbles
+    image:
+      url: how_to_sow_step1.png
+      layout: full
+    text: |
+      Cover the bottom of your small pot with 1 layer of clay pebbles , rinse them to remove clay dust and debris.
+      Check that the pot drains well.
+
+  - title: 2. Fill with soil
+    image:
+      url: how_to_sow_step2.png
+      layout: full
+    text: |
+      Add your light mix soil and water it as you fill the pot to help get more compact soil.
+      Leave a little space before reaching the top of the pot, that will help prevent water from overflowing when watering.
+
+  - title: 3. Make a hole 
+    image:
+      url: how_to_sow_step3.png
+      layout: full
+    text: |
+      Use your finger or a pen to make a hole in the soil 1/2in - 1.5cm deep (about 1 fingernail).
+
+  - title: 4. Sow seed
+    image:
+      url: how_to_sow_step4.png
+      layout: full
+    text: |
+      Carfully place the seed, cover it up with soil and tamp lightly.
+      You want the sprout to have to push through the first layer of soil.
+
+  - title: 5. Germination dome
+    image:
+      url: how_to_sow_step5.png
+      layout: full
+    text: |
+      To help your seed germinate keep the RH above 60% - place a transparent dome over it and msit the inside.
+      Clear plastic cups and cut in half water bottles work great.
+
 
 products:
   
@@ -29,7 +68,7 @@ products:
   - name: Clay balls
     urls:
       - zone: DE
-        image: clay_balls.png
+        image: clay_pebbles.png
         url: https://amzn.to/2WfA2gC
   
   - name:   Small pot
@@ -37,8 +76,6 @@ products:
       - zone: DE
         image: small_pot.png
         url: https://amzn.to/2voqPaP
-
-
 
 reminders:
   - delay: 1d
