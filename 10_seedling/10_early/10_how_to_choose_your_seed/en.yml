@@ -15,6 +15,9 @@ intro:
 
 sections:
   - title: Recommended seedbanks
+    image:
+          url: recommended_seedbanks.png
+          layout: left
     text: |
       We curated a list of the best most reputable seedbanks the community uses (ordered alphabetically).
       *Help us keep this guide free by using our affiliate links below.*

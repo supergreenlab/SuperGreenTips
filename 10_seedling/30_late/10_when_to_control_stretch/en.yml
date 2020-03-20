@@ -1,0 +1,33 @@
+title: When to control stretch
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 7
+intro:
+  image:
+    url: when_to_control_stretch.png
+    layout: left
+  text: |
+    Keep track of growth by measuring how your plant stretches along the cycles.
+    In seedling stage measure the stem, the way it grows determines the light level
+    In vegetative stage measure the internodal space (the distance between 2 sets of branches)
+    In flowering stage your plant will stretch to make room for buds
+
+reminders:
+  - id: watering
+    interval: 4-7d
+    text: Check the soil
+
+  - id: stretch
+    interval: 3-6d
+    text: Check up on stretch
+
+    ctas:
+      - title: Stretch observations
+        actions:
+          - type: observation
+            params:
+            experiment_id: stretch
+            measure_id: internodal
+
