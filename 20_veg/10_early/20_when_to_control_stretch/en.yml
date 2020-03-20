@@ -9,8 +9,8 @@ intro:
     url: when_to_control_stretch.png
     layout: left
   text: |
-    In seedling stage measure the stem's height and check the cotyledons' growth (first set of round leaves)
-    The sprout stretches until it receives enough litght; then starts working on it's first set of true leaves.
+    In vegetative stage measure the internodal space (the distance between 2 sets of branches)
+    The amount of light received by the plant determines the internodal spacing
 
 reminders:
   - id: watering

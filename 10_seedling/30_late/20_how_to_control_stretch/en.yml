@@ -9,10 +9,7 @@ intro:
     url: how_to_control_stretch.png
     layout: left
   text: |
-     Plants strecth to reach adequate lighting.
-     Increase light instensity to decrease stretching.
-     Decrease light intensity to increase stretching.
-     Monitor the growth over the next few days.
+     Increase light intensity if the sprout keeps stretching and the cotyledons are not developing.
      
 reminders:
   - id: watering

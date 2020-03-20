@@ -9,9 +9,8 @@ intro:
     url: when_to_control_stretch.png
     layout: left
   text: |
-    In seedling stage measure the stem's height and check the cotyledons' growth (first set of round leaves)
-    The sprout stretches until it receives enough litght; then starts working on it's first set of true leaves.
-
+    In flowering stage measure the total height as the plant stretches to make room for buds
+    
 reminders:
   - id: watering
     interval: 4-7d

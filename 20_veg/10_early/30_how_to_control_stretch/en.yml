@@ -1,4 +1,4 @@
-title: When to control stretch
+title: How to control stretch
 tags:
   - sgl
   - vertical
@@ -6,12 +6,12 @@ tags:
 reftime: 7
 intro:
   image:
-    url: when_to_control_stretch.png
+    url: how_to_control_stretch.png
     layout: left
   text: |
-    In seedling stage measure the stem's height and check the cotyledons' growth (first set of round leaves)
-    The sprout stretches until it receives enough litght; then starts working on it's first set of true leaves.
-
+     To decrease internodal space: increase light instensity
+     To increase internodal space: decrease light intensity.
+     
 reminders:
   - id: watering
     interval: 4-7d
