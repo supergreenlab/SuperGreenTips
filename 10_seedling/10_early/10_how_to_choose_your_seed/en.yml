@@ -67,3 +67,16 @@ sections:
 sources:
   - title: Royal Queen Seeds
     url: https://www.royalqueenseeds.com/content/146-choose-the-right-cannabis-seeds-for-your-particular-needs
+
+ctas:
+  - title: Wet trim
+    actions:
+      - type: tip
+        params:
+        tip_id: 40_harvest\20_mid\10_how_to_trim
+
+      - type: set_key
+        params:
+          key: trim_type
+          value: wet
+        
