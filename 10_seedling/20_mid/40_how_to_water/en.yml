@@ -56,4 +56,4 @@ ctas:
     actions:
       - type: log
         params:
-      log_id: watering
+        log_id: watering
