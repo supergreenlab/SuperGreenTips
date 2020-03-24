@@ -49,3 +49,11 @@ products:
       - zone: DE
         image: mega_crop.png
         url: https://greenleafnutrients.com/product/mega-crop/
+
+
+ctas:
+  - title: Water log
+    actions:
+      - type: log
+        params:
+      log_id: watering
