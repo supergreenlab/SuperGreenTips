@@ -16,7 +16,7 @@ intro:
 sections:
   - title: 1. Put the seed in a glass
     image:
-      url: how_to_germinate_seed_glass.gif
+      url: how_to_germinate_seed_glass.mp4
       layout: full
     text: |
       Fill out a small glass with room temperature.
@@ -25,7 +25,7 @@ sections:
 
   - title: 2. Put the seed in darkness
     image:
-      url: how_to_germinate_seed_darkness.gif
+      url: how_to_germinate_seed_darkness.mp4
       layout: full
     text: |
       Cover the top of the glass or place it in a dark place for 24h.
