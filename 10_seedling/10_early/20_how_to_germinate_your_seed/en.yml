@@ -62,8 +62,8 @@ reminders:
             value: 0
 
     - title: Not yet cracked
-          actions:
-            - type: repeat
+      actions:
+        - type: repeat
 
 products:
   
