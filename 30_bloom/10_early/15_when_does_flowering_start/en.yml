@@ -1,0 +1,29 @@
+title: When does flowering start
+tags:
+  - sgl
+  - vertical
+  - soil
+reftime: 35-42
+intro:
+  image:
+    url: how_to_switch_to_bloom.png
+    layout: left
+  text: |
+    Once the light cycle is in 12/12 it will take a couple of days for your plant to transition between veg and bloom.
+    During the next 7-10 days after the switch, check your plant for the development of pistils (white hairs).
+    Once you see them, flowering has officially started :)
+
+    PSA: if your seed wasn't feminized and instead of pistills you see little balls growing - these are pollen sacs; your plant is a male.
+    Males DO NOT produce flower and will pollinate your females, best to remove them early.
+    
+
+triggers:
+  - id: TEMPERATURE
+    notification: TODO
+    metric: TEMP
+    value_day: 21-26
+    value_night: 17-24
+  - id: HUMIDITY
+    notification: TODO
+    metric: HUMI
+    value: 40-55

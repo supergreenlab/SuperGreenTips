@@ -89,17 +89,17 @@ ctas:
     actions:
       - type: tip
         params:
-        tip_id: 40_harvest\20_mid\10_how_to_trim
+          tip_id: 40_harvest\20_mid\10_how_to_trim
 
       - type: set_key
         params:
           key: trim_type
           value: wet
   
-    ctas:
-      - title: Stretch observations
-        actions:
-          - type: observation
-            params:
-            experiment_id: stretch
-            measure_id: internodal
+   
+  - title: Stretch observations
+    actions:
+      - type: observation
+        params:
+        experiment_id: stretch
+        measure_id: internodal

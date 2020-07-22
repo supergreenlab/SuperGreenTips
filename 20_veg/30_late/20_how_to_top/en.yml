@@ -25,7 +25,7 @@ products:
         image: trimming_shears.png
         url: https://amzn.to/2ITakGS
 
-  - name: Trimming shears
+  - name: Pruning shears
     urls:
       - zone: DE
         image: prunning_shears.png

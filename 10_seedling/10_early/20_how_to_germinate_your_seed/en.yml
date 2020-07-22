@@ -14,6 +14,23 @@ intro:
     2. Put the glass in a dark place for 24 hours.
 
 sections:
+  - title: 1. Put the seed in a glass
+    image:
+      url: how_to_germinate_seed_glass.gif
+      layout: full
+    text: |
+      Fill out a small glass with room temperature.
+      Remove seed from packaging *be gentle, don't crush the seed while trying to get it out*
+      Drop it in the water, some seeds will float and others sink instantly.
+
+  - title: 2. Put the seed in darkness
+    image:
+      url: how_to_germinate_seed_darkness.gif
+      layout: full
+    text: |
+      Cover the top of the glass or place it in a dark place for 24h.
+      This leaves enough time for the seed to absord enough water to start the germination process and soften the shell.
+
   - title: Germination secrets explained
     image:
       url: germination.png
@@ -31,8 +48,22 @@ sources:
 
 reminders:
   - delay: 24h
-    text: Take your seed out of the water, it should have sprouted!
-    next: 10_veg/10_early/20_how_to_sow_your_seed
+    text: Check on your seed
+    ctas:
+    - title: It cracked!
+      actions:
+        - type: tip
+          params:
+            tip_id: 10_seedling\10_early\30_how_to_sow_your_seed
+
+        - type: set_key
+          params:
+            key: seedling
+            value: 0
+
+    - title: Not yet cracked
+          actions:
+            - type: repeat
 
 products:
   
