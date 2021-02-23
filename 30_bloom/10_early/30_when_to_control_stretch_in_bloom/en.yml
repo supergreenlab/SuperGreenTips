@@ -20,11 +20,11 @@ reminders:
     interval: 3-6d
     text: Check up on stretch
 
-    ctas:
-      - title: Stretch observations
-        actions:
-          - type: observation
-            params:
-            experiment_id: stretch
-            measure_id: internodal
+ctas:
+  - title: Stretch observations
+    actions:
+      - type: observation
+        params:
+        experiment_id: stretch
+        measure_id: internodal
 
